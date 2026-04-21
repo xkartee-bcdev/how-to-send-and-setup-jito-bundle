@@ -1,0 +1,13 @@
+﻿{
+  "name": "how-to-send-and-setup-jito-bundle",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Starter example for sending Jito bundles with optional UUID auth.",
+  "scripts": {
+    "start": "node src/sendBundle.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
